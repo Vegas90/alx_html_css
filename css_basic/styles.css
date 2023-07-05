@@ -49,3 +49,11 @@ overflow-y: auto;
   text-align:right; 
   margin-left:80%; 
 }
+
+footer{
+    background-color:#071629;
+}
+
+footer a{
+    color: white;
+}
