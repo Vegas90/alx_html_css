@@ -1,0 +1,51 @@
+body{
+display: flex;
+flex-direction: column;
+}
+
+main{
+flex-direction: row;
+flex: auto;
+
+}
+article{
+flex:2;
+overflow-y: auto;
+}
+aside{
+flex:3;
+overflow-y: auto;
+}
+
+.banner{
+    text-align: center;
+    padding-left:20%;
+    clear: both;
+}
+
+.banner h1{
+    font-size: 100px;
+}
+
+.testimonial{
+    background-color: #C271FF;
+    text-align: center;
+    padding-left:20%;
+    clear: both;
+    border-bottom: 1px solid rgb(221,221,221); 
+
+   
+}
+.testimonial a{
+    color:white;
+}
+.upper{
+    border-bottom: 1px solid rgb(221,221,221); 
+    display: block;
+    
+}
+
+#link{
+  text-align:right; 
+  margin-left:80%; 
+}
