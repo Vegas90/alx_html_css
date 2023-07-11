@@ -374,7 +374,7 @@ flex-direction: row-reverse;
 
 /* Section SERVICES ============================= */
 
-#latest_news.services.section-services .container .section-body ul.row{
+#latest_news.section.section-services .container .section-body ul.row{
   flex-wrap:wrap;
 }
 
