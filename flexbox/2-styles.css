@@ -367,7 +367,8 @@
     padding: 10rem 40rem 2rem 0;
   }
   /* Section Latest news ============================= */
-#latest_news .container .section-body ul.row {
+  
+#latest_news ul.row {
 flex-direction: row-reverse;
 }
 
